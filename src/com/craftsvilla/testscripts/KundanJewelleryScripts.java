@@ -1,5 +1,6 @@
 package com.craftsvilla.testscripts;
 
+//scripts for kundan jewellery module
 import org.testng.annotations.Test;
 
 import com.craftsvilla.generic.BaseTest;
